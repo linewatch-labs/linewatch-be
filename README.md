@@ -51,6 +51,6 @@ python scripts/verify_api.py
 - `POST /api/v1/events/ingest`
 - `GET /api/v1/machines/{id}/sensor-series`
 
-## 포트폴리오 포인트
+## 프로젝트 포인트
 
 FastAPI와 Tortoise ORM으로 제조 도메인 모델을 빠르게 구성하고, refresh token 해시 저장과 device 단위 로그아웃을 포함했습니다. REST API만 사용합니다.
